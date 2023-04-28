@@ -122,7 +122,9 @@ body {
     border-bottom: 1px solid #cccccc30;
 }
 
-.name {}
+.name {
+font-size: 20px;
+}
 
 .c-time {
     color: #00a884;
